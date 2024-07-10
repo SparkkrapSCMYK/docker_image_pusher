@@ -10,4 +10,5 @@
 #mysql:latest
 #lscr.io/linuxserver/sqlitebrowser:latest
 #colinchang/ubuntu-desktop
-ghcr.io/home-assistant/home-assistant:stable
+#ghcr.io/home-assistant/home-assistant:stable
+teddysun/shadowsocks-libev
