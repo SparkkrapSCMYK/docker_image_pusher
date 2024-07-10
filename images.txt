@@ -12,4 +12,5 @@
 #colinchang/ubuntu-desktop
 #ghcr.io/home-assistant/home-assistant:stable
 #teddysun/shadowsocks-libev
-dreamacro/clash
+#dreamacro/clash
+ghcr.io/haishanh/yacd:master
