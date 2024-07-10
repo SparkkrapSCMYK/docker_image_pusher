@@ -6,4 +6,4 @@
 #photoprism/photoprism
 #viktorstrate/photoview:latest
 #drupalci/sqlite-3:latest
-sqlite
+docker/sqlite
