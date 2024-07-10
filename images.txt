@@ -9,4 +9,5 @@
 #docker/sqlite
 #mysql:latest
 #lscr.io/linuxserver/sqlitebrowser:latest
-colinchang/ubuntu-desktop
+#colinchang/ubuntu-desktop
+ghcr.io/home-assistant/home-assistant:stable
