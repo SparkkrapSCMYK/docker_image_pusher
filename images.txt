@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #photoprism/photoprism
 #viktorstrate/photoview:latest
-drupalci/sqlite-3
+drupalci/sqlite-3:latest
