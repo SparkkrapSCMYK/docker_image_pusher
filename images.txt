@@ -8,4 +8,5 @@
 #drupalci/sqlite-3:latest
 #docker/sqlite
 #mysql:latest
-lscr.io/linuxserver/sqlitebrowser:latest
+#lscr.io/linuxserver/sqlitebrowser:latest
+colinchang/ubuntu-desktop
