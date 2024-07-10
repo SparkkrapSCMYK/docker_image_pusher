@@ -7,4 +7,5 @@
 #viktorstrate/photoview:latest
 #drupalci/sqlite-3:latest
 #docker/sqlite
-mysql:latest
+#mysql:latest
+lscr.io/linuxserver/sqlitebrowser:latest
