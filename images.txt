@@ -13,4 +13,5 @@
 #ghcr.io/home-assistant/home-assistant:stable
 #teddysun/shadowsocks-libev
 #dreamacro/clash
-ghcr.io/haishanh/yacd:master
+#ghcr.io/haishanh/yacd:master
+ghcr.io/imagegenius/immich:latest
