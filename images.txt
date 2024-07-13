@@ -17,5 +17,6 @@
 #ghcr.io/imagegenius/immich:latest
 #portainer/portainer-ce:latest
 #dorowu/ubuntu-desktop-lxde-vnc:latest
-louislam/dockge:1
-kasmweb/edge:1.15.0
+#louislam/dockge:1
+#kasmweb/edge:1.15.0
+kasmweb/ubuntu-jammy-desktop:1.15.0
